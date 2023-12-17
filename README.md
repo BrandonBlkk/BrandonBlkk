@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyaw Zayar Tun but you can call me Brandon.
-- 👀 I’m interested in learing code and it's one of my passion.
+- 👀 I’m interested in learning code and it's one of my passion.
 - 🌱 I’m currently learning HTML, CSS, PHP and Python
 
 <!---
