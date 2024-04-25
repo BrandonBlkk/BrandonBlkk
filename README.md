@@ -8,6 +8,10 @@ Frontend Developer
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandonblkk.github.io/Portfolio/Porfolio%20Website.html)
 
+## Portfolio QR🕹️
+<img src="https://github.com/BrandonBlkk/Portfolio/assets/141344965/eac5ba67-bcfd-4ed1-95f5-6835e62da17e" alt="adobe-express-qr-code" width="100">
+
+
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
 * 🧠  I'm learning Tailwind CSS
