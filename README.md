@@ -6,11 +6,7 @@ Frontend Developer
 
 👀 I’m interested in learning code and it's one of my passion. 🌱 I’m currently learning JavaScript and other frontend frameworks like React.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandonblkk.github.io/Portfolio/Porfolio%20Website.html)
-
-## Portfolio QR🕹️
-<img src="https://github.com/BrandonBlkk/Portfolio/assets/141344965/eac5ba67-bcfd-4ed1-95f5-6835e62da17e" alt="adobe-express-qr-code" width="100">
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](brandonblkk.github.io/my-portfolio/)
 
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
@@ -28,8 +24,6 @@ Frontend Developer
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -39,6 +33,8 @@ Frontend Developer
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
