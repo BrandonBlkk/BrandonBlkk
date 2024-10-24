@@ -6,7 +6,7 @@ Frontend Developer
 
 👀 I’m interested in learning code and it's one of my passion. 🌱 I’m currently learning JavaScript and other frontend frameworks like React.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](brandonblkk.github.io/my-portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandonblkk.github.io/my-portfolio/)
 
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
