@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyaw Zayar Tun but you can call me Brandon.
 ===================================================================================================================================================================
 
-Frontend Developer
+Web Developer
 ------------------
 
-👀 I’m interested in learning code and it's one of my passion. 🌱 I’m currently learning JavaScript and other frontend frameworks like React.
+👀 I’m interested in learning code and it's one of my passion. 🌱 I’m currently learning Laravel and other frontend frameworks like React.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandonblkk.github.io/my-portfolio/)
 
-* 🌍  I'm based in Yangon
+* 🌍  I'm based in Yangon, Myanmar (Burma)
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
-* 🧠  I'm learning JavaScript and React
+* 🧠  I'm learning Laravel and React
 * ⚡  I'm Batman Cause I'm a Developer, Do Not Tell Anyone.
 
 ###
