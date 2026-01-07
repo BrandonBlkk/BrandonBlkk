@@ -1,17 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyaw Zayar Tun but you can call me Brandon.
-===================================================================================================================================================================
+# Hi, I'm Kyaw Zayar Tun (Brandon) 👋  
+**Web Developer | Backend-focused | Laravel & Node.js Learner**
 
-Web Developer
-------------------
+A passionate and motivated aspiring Web Developer with a strong interest in backend development.  
+Enjoy building reliable web applications, solving bugs, and continuously improving coding skills.  
+Currently focused on Laravel and Node.js while strengthening full-stack fundamentals.
 
-👀 I’m interested in learning code and it's one of my passion. 🌱 I’m currently learning Laravel and other frontend frameworks like React.
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandonblkk.github.io/my-portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandondevme.vercel.app)
 
 * 🌍  I'm based in Yangon, Myanmar (Burma)
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
-* 🧠  I'm learning Laravel and React
-* ⚡  I'm Batman Cause I'm a Developer, Do Not Tell Anyone.
+* 🧠  I'm learning Laravel and NodeJs
+* ⚡  Trust me. I'm a Developer, Cuz i can't flirt with girls.
 
 ###
 
@@ -30,11 +29,15 @@ Web Developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="postman"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
