@@ -14,7 +14,7 @@ Currently focused on Laravel and Node.js while strengthening full-stack fundamen
 
 ###
 
-## I code with
+## Tech Stack & Current Learning
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -29,7 +29,9 @@ Currently focused on Laravel and Node.js while strengthening full-stack fundamen
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="postman"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="30" alt="expressjs logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
@@ -37,7 +39,9 @@ Currently focused on Laravel and Node.js while strengthening full-stack fundamen
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
