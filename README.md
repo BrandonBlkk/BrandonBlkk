@@ -7,7 +7,7 @@ Currently focused on Laravel and Node.js while strengthening full-stack fundamen
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandondevme.vercel.app)
 
-* 🌍  I'm based in Yangon, Myanmar (Burma)
+* 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
 * 🧠  I'm learning Laravel and NodeJs
 * ⚡  Trust me. I'm a Developer, Cuz i can't flirt with girls.
