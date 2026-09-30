@@ -1,15 +1,15 @@
 # Hi, I'm Kyaw Zayar Tun (Brandon) 👋  
-**Web Developer | Backend-focused | Laravel & Node.js Learner**
+**Web Developer | Backend-focused | Node/Express Learner**
 
 A passionate and motivated aspiring Web Developer with a strong interest in backend development.  
 Enjoy building reliable web applications, solving bugs, and continuously improving coding skills.  
-Currently focused on Laravel and Node.js while strengthening full-stack fundamentals.
+Currently focused on Node/Express while strengthening full-stack fundamentals.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brandondevme.vercel.app)
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [kyawzayartun0526@gmail.com](mailto:kyawzayartun0526@gmail.com)
-* 🧠  I'm learning Laravel and NodeJs
+* 🧠  I'm learning Node/Express
 * ⚡  Trust me. I'm a Developer, Cuz i can't flirt with girls.
 
 ###
@@ -66,15 +66,15 @@ Currently focused on Laravel and Node.js while strengthening full-stack fundamen
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-delta-eight-12.vercel.app/api?username=BrandonBlkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-delta-eight-12.vercel.app/api/top-langs?username=BrandonBlkk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"/>
+  <!-- <img src="https://github-readme-stats-delta-eight-12.vercel.app/api?username=BrandonBlkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-delta-eight-12.vercel.app/api/top-langs?username=BrandonBlkk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"/> -->
   <img src="https://github-profile-trophy.screw-hand.vercel.app?username=BrandonBlkk&theme=darkhub&no-frame=true&margin-w=3" height="650" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonBlkk&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
